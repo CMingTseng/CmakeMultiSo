@@ -1,1 +1,4 @@
 include ':app', ':layer1'
+
+
+include ':pure_app', ':layer1_library_mode', ':layer2_library_mode', ':layer3_library_mode'
